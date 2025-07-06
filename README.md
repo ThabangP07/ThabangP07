@@ -64,6 +64,20 @@
 
 ###
 
+<h2>My Developer Metrics</h2>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThabangP07&theme=radical&hide_border=true" width="80%" loading="lazy"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThabangP07&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="80%" loading="lazy"/>
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ThabangP07/ThabangP07/output/github-snake.svg" alt="Snake animation" />
