@@ -40,6 +40,10 @@
   <a href="https://www.linkedin.com/in/thabang-phoshoko-3ab570247/" target="_blank">
      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+
+  <a href="https://x.com/Thabang_Dev?t=CO4zNzxTbjcSl--_Xq7WnQ&s=08" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter logo"/>
+  </a>
   
  
 </div>
