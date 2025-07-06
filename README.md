@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThabangP07&bg_color=#ffc0cb&color=#DB7093&line=A77BF3&point=#ffffff&area_color=#FE428E&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" loading="lazy"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThabangP07&bg_color=#F0E68C&color=#DB7093&line=F0E68C&point=#ffffff&area_color=#F0E68C&area=true&hide_border=false" alt="GitHub Activity Graph" width="100%" loading="lazy"/>
 </div>
 
 ###
