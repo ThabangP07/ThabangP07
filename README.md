@@ -68,12 +68,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThabangP07&theme=radical&hide_border=true" width="80%" loading="lazy"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThabangP07&theme=gruvbox&hide_border=true" width="80%" loading="lazy"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThabangP07&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="80%" loading="lazy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ThabangP07&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1" width="80%" loading="lazy"/>
 </div>
 
 ###
