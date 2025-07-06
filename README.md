@@ -10,8 +10,8 @@
 ###
 
 <div style="align: center; display: block; width: 100%" >
-  <img src="https://github-readme-stats.vercel.app/api?username=ThabangP07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" style="height: 150px !important" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThabangP07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="height: 150px !important" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThabangP07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" style="height: 150px !important" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThabangP07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" style="height: 150px !important" alt="languages graph"  />
 </div>
 
 ###
