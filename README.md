@@ -3,6 +3,10 @@
 
 <h2 align="left">My name is Thabang.</h2>
 
+<h3 align="center">
+  👨‍💻 <em>Tech Enthusiast | Full-Stack Developer | Front-End Specialist | Life-long Learner</em>
+</h3>
+
 ###
 
 <div style="align: center; display: block; width: 100%" >
